@@ -15,5 +15,5 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 21:42:24	Warning: 	Retry after error -4 (No data (connection closed)) at link crypterio-demo.smashingdevs.com/Light/images/coins/eth.png (from crypterio-demo.smashingdevs.com/Light/market-overview.html)
 21:42:24	Warning: 	Retry after error -4 (No data (connection closed)) at link crypterio-demo.smashingdevs.com/Light/images/star.svg (from crypterio-demo.smashingdevs.com/Light/exchange.html)
 
-HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 36 seconds : 72 links scanned, 63 files written (4219521 bytes overall) [4238200 bytes received at 27167 bytes/sec], 3.4 requests per connection
+Website Copier/3.49-2 mirror complete in 2 minutes 36 seconds : 72 links scanned, 63 files written (4219521 bytes overall) [4238200 bytes received at 27167 bytes/sec], 3.4 requests per connection
 (2 errors, 6 warnings, 0 messages)
